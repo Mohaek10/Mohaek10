@@ -2,6 +2,8 @@
 
 Soy un **Desarrollador Fullstack** con una sólida formación en **Desarrollo de Aplicaciones Web**. Me apasiona la programación y la resolución de problemas complejos mediante la implementación de soluciones innovadoras. Me especializo en **JavaScript**, **Angular**, **Django** y **Spring Boot**, aunque mi curiosidad me lleva constantemente a explorar nuevas tecnologías y herramientas.
 
+![Desarrollador de aplicaciones web - FullStack](https://github.com/Mohaek10/Mohaek10/blob/main/mohaek10.png)
+
 ## 🚀 Mis Tecnologías Principales:
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla, Angular, TypeScript), TailwindCSS, Bootstrap, Angular Material
 - **Backend**: Java, Spring Boot, Django REST Framework, Node.js, NestJS, PHP (Laravel)
