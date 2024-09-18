@@ -31,5 +31,4 @@ Soy una persona **proactiva**, con gran capacidad de **adaptación** en entornos
 - **LinkedIn**: [Mohamed El Kasmi]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mohaek10/))
 - **GitHub**: [github.com/MohamedElKasmi](https://github.com/mohaek10)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohaek10&theme=dark&locale=es)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaek10&layout=compact)](https://github.com/SrGobi/github-readme-stats)
