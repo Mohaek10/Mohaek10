@@ -7,7 +7,7 @@ Soy un **Desarrollador Fullstack** con una sólida formación en **Desarrollo de
 ## 🚀 Mis Tecnologías Principales:
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla, Angular, TypeScript), TailwindCSS, Bootstrap, Angular Material
 - **Backend**: Java, Spring Boot, Django REST Framework, Node.js, NestJS, PHP (Laravel)
-- **Bases de Datos**: PostgreSQL, MongoDB
+- **Bases de Datos**: PostgreSQL, MongoDB, MySQL
 - **DevOps**: Docker, Docker Compose, Railway, Render, Netlify
 - **Herramientas**: Git, GitHub, Adminer, JWT
 
